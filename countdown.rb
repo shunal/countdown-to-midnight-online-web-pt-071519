@@ -1,4 +1,6 @@
 #write your code here
-
-def countdown
+counter = 0
+def countdown(integer)
+  while integer > 0 do
+    integer 
 end
